@@ -1,0 +1,57 @@
+[
+  {
+    "kode": "EAS-LMP-AVZ-13-L",
+    "nama": "Headlamp Kiri Toyota Avanza 2013 Original Copotan",
+    "mobil": "Toyota Avanza 2012-2015",
+    "kategori": "lampu",
+    "harga": 850000,
+    "foto": "assets/img/sample-avanza-headlamp.webp",
+    "featured": true,
+    "link": ""
+  },
+  {
+    "kode": "EAS-BMP-JZZ-10-F",
+    "nama": "Bemper Depan Jazz GE8 Original",
+    "mobil": "Honda Jazz 2008-2013",
+    "kategori": "bemper",
+    "harga": 1250000,
+    "foto": "assets/img/sample-jazz-bumper.webp",
+    "featured": true
+  },
+  {
+    "kode": "EAS-GRL-YRS-17",
+    "nama": "Grille Depan Yaris Facelift",
+    "mobil": "Toyota Yaris 2016-2018",
+    "kategori": "grille",
+    "harga": 650000,
+    "foto": "assets/img/sample-yaris-grille.webp",
+    "featured": false
+  },
+  {
+    "kode": "EAS-SPL-AYL-19-R",
+    "nama": "Stoplamp Kanan All New Ayla",
+    "mobil": "Daihatsu Ayla 2018-2022",
+    "kategori": "stoplamp",
+    "harga": 400000,
+    "foto": "assets/img/sample-ayla-stoplamp.webp",
+    "featured": true
+  },
+  {
+    "kode": "EAS-SPN-CRT-18-L",
+    "nama": "Spion Kiri Wuling Cortez + Cover",
+    "mobil": "Wuling Cortez 2018-2021",
+    "kategori": "spion",
+    "harga": 550000,
+    "foto": "assets/img/sample-cortez-spion.webp",
+    "featured": false
+  },
+  {
+    "kode": "EAS-LMP-CLD-23-R",
+    "nama": "Headlamp Kanan Wuling Cloud EV",
+    "mobil": "Wuling Cloud EV 2023+",
+    "kategori": "lampu",
+    "harga": 3200000,
+    "foto": "assets/img/sample-cloud-headlamp.webp",
+    "featured": true
+  }
+]
